@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  padding: 5px;
+  border: 1px solid black;
+}
+.header {
+  display: flex;
+  margin: 5px;
+  border: 1px solid black;
+}
+.sub-heading {
+  padding: 10px;
+}
+.boloform {
+  margin: auto;
+}
+img {
+  height: 10rem;
+  width: 10rem;
+}
+.footer {
+  font-weight: 600;
+  background-color: rgb(211, 191, 230);
+  margin: 10px;
+}
+label {
+  padding-left: 1rem;
+}
